@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>Planescape</title>
-      <link href="/2021/12/02/post/"/>
-      <url>/2021/12/02/post/</url>
-      
-        <content type="html"><![CDATA[<p>一个男人茫然的坐在路边。</p><p>他不知道他该往哪里走才好；</p><p>事实上，他连自己因何旅行、 甚至自己是谁都忘记了。</p><p>忽然抬起头却看到一个老妇人突然站在自己面前。</p><p>老妇咧着没有牙齿的嘴， 笑着：「接下来，你的第三个愿望是？」</p><p>「第三个愿望？」</p><p>男人对老妇的话感到困惑。</p><p>「如果我连第一、第二个愿望都还没许， 又怎么会有第三个愿望？」</p><p>「事实上，你已经许了两个愿望，」</p><p>那个巫婆这样说，</p><p>「而且你的第二个愿望， 就是要求我把一切还原到你许下第一个愿望之前。 既然回到你许下任何愿望之前的状态， 你当然甚么都不记得」</p><p>她咯咯的笑着，彷彿是在嘲笑眼前的男人。</p><p>「所以你还剩下一个愿望」</p><p>「那好吧，」</p><p>男人说道：</p><p>「虽然我不相信会有这样的事情， 但许个愿望也没什么不好。我希望知道我是谁。」</p><p>巫婆放声狂笑</p><p>「真有趣，」</p><p>当她实现了男人的愿望，</p><p>在消失之前说着：</p><p>「这正是你的第一个愿望。」</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/11/30/hello-world/</url>
+    <content><![CDATA[<p>Today is history. </p>
+<p>Today,we make history. </p>
+<p>Today, we are part of history.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Planescape</title>
+    <url>/2021/12/02/post/</url>
+    <content><![CDATA[<p>一个男人茫然的坐在路边。</p>
+<p>他不知道他该往哪里走才好；</p>
+<p>事实上，他连自己因何旅行、 甚至自己是谁都忘记了。</p>
+<p>忽然抬起头却看到一个老妇人突然站在自己面前。</p>
+<p>老妇咧着没有牙齿的嘴， 笑着：「接下来，你的第三个愿望是？」</p>
+<p>「第三个愿望？」</p>
+<p>男人对老妇的话感到困惑。</p>
+<p>「如果我连第一、第二个愿望都还没许， 又怎么会有第三个愿望？」</p>
+<p>「事实上，你已经许了两个愿望，」</p>
+<p>那个巫婆这样说，</p>
+<p>「而且你的第二个愿望， 就是要求我把一切还原到你许下第一个愿望之前。 既然回到你许下任何愿望之前的状态， 你当然甚么都不记得」</p>
+<p>她咯咯的笑着，彷彿是在嘲笑眼前的男人。</p>
+<p>「所以你还剩下一个愿望」</p>
+<p>「那好吧，」</p>
+<p>男人说道：</p>
+<p>「虽然我不相信会有这样的事情， 但许个愿望也没什么不好。我希望知道我是谁。」</p>
+<p>巫婆放声狂笑</p>
+<p>「真有趣，」</p>
+<p>当她实现了男人的愿望，</p>
+<p>在消失之前说着：</p>
+<p>「这正是你的第一个愿望。」</p>
+]]></content>
       <categories>
-          
-          <category> 文章摘录 </category>
-          
+        <category>文章摘录</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2021/11/30/hello-world/"/>
-      <url>/2021/11/30/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Today is history. </p><p>Today,we make history. </p><p>Today, we are part of history.</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+  </entry>
 </search>
