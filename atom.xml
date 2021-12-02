@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>指月山瀑</title>
+  
+  <subtitle>I Kept Fallin Into The Fire</subtitle>
+  <link href="https://mosoond.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://mosoond.github.io/"/>
+  <updated>2021-11-30T17:03:05.073Z</updated>
+  <id>https://mosoond.github.io/</id>
+  
+  <author>
+    <name>红炉点雪</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://mosoond.github.io/2021/11/30/hello-world/"/>
+    <id>https://mosoond.github.io/2021/11/30/hello-world/</id>
+    <published>2021-11-29T17:27:58.831Z</published>
+    <updated>2021-11-30T17:03:05.073Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://hexo.io/&quot; &gt;Hexo&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
