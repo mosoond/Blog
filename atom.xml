@@ -6,7 +6,7 @@
   <link href="https://mosoond.github.io/atom.xml" rel="self"/>
   
   <link href="https://mosoond.github.io/"/>
-  <updated>2021-11-30T17:03:05.073Z</updated>
+  <updated>2021-12-02T09:18:57.090Z</updated>
   <id>https://mosoond.github.io/</id>
   
   <author>
@@ -17,23 +17,56 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Planescape</title>
+    <link href="https://mosoond.github.io/2021/12/02/post/"/>
+    <id>https://mosoond.github.io/2021/12/02/post/</id>
+    <published>2021-12-02T08:55:38.000Z</published>
+    <updated>2021-12-02T09:18:57.090Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;一个男人茫然的坐在路边。&lt;/p&gt;
+&lt;p&gt;他不知道他该往哪里走才好；&lt;/p&gt;
+&lt;p&gt;事实上，他连自己因何旅行、 甚至自己是谁都忘记了。&lt;/p&gt;
+&lt;p&gt;忽然抬起头却看到一个老妇人突然站在自己面前。&lt;/p&gt;
+&lt;p&gt;老妇咧着没有牙齿的嘴，</summary>
+        
+      
+    
+    
+    
+    <category term="文章摘录" scheme="https://mosoond.github.io/categories/%E6%96%87%E7%AB%A0%E6%91%98%E5%BD%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://mosoond.github.io/2021/11/30/hello-world/"/>
     <id>https://mosoond.github.io/2021/11/30/hello-world/</id>
     <published>2021-11-29T17:27:58.831Z</published>
-    <updated>2021-11-30T17:03:05.073Z</updated>
+    <updated>2021-12-02T09:25:38.381Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://hexo.io/&quot; &gt;Hexo&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas</summary>
+    <summary type="html">&lt;p&gt;Today is history. &lt;/p&gt;
+&lt;p&gt;Today,we make history. &lt;/p&gt;
+&lt;p&gt;Today, we are part of</summary>
         
       
     
     
     
+    
+    <category term="Hexo" scheme="https://mosoond.github.io/tags/Hexo/"/>
+    
+    <category term="Fluid" scheme="https://mosoond.github.io/tags/Fluid/"/>
     
   </entry>
   
